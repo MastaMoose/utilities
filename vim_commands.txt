@@ -1,0 +1,2 @@
+matchin parants is done with %
+going to the end of the line is one with $
